@@ -1,0 +1,6 @@
+<project name="WebServer" default="compile>
+<target name="compile">
+<javac srcdir="." destdir="."/>
+</target>
+
+</project>
